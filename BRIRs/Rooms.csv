@@ -1,0 +1,32 @@
+﻿Room ID,Room name,Room location,Room type,Room dimensions (m) (l x w x h),Reduced Reverberation?,RT60 (s),Listener,Source distance (m),Source azimuth range,Source elevation range,Source/receiver configurations
+R01,Room Calypso,TU Berlin,Listening room,5.00 x 5.50 x 3.00,No,0.306,KEMAR 45BA with large ears,2.5,±180°,0°,1
+R02,Control Room 1,WDR Broadcast Studios,Control room,6.85 x 5.48 X 2.47,No,0.235,Neumann KU100,2.8,±180°,0°,1
+R03,Control Room 7,WDR Broadcast Studios,Control room,7.26 x 8.26 X 2.90,No,0.266,Neumann KU100,3,±180°,0°,1
+R04,Listening Room,University of Salford,Listening room,5.80 x 6.60 X 2.70,No,0.256,B&K HATS Type 4100,3.1,±180°,0°,1
+R05,Audio Lab,University of Rostock,Listening room / audio lab,5.00 x 5.75 x 3.00,No,0.442,KEMAR 45BA with large ears,2.5,±180°,0°,1
+R06,Seminar Room,TU Ilmenau,Seminar room,5.00 x 5.00,Yes,0.438,KEMAR,3,±180°,0°,1
+R07,Conference Room,TU Ilmenau,Small conference room,10.31 x 5.76 x 3.10,Yes,0.403,"KEMAR 45BA with large ears (P1,P2) and small ears (P3)",2.5,±180°,0°,3
+R08,Room Spirit,TU Berlin,Small meeting room,5.50 x 4.50,Yes,0.367,KEMAR 45BA with large ears,2,±120°,0°,1
+R09,Adream Laboratory,LAAS-CNRS Toulouse,Apartment-like environment / laboratory,N/A,Yes,0.421,KEMAR 45BB-4,4.8,±90°,0°,1
+R10,Room Auditorium 3,TU Berlin,Lecture room / auditorium,10.00 x 9.00,Yes,0.422,KEMAR 45BA with large ears,4,±180°,0°,1
+R11,Small Broadcast Studio,WDR Broadcast Studios,Small studio,17.33 x 11.07 x 6.20,Yes,0.388,Neumann KU100,6.94,±180°,0°,1
+R12,Office,University of Surrey,Medium-sized office,5.72 x 6.64 x 2.30,Yes,0.351,Neutrik Cortex mk.2 HATS,1.5,±90°,0°,1
+R13,Classroom,University of Surrey,Medium–small classroom,4.65 x 4.65 X 2.68,Yes,0.363,Neutrik Cortex mk.2 HATS,1.5,±90°,0°,1
+R14,Seminar Room,University of Surrey,Medium–large sized seminar/presentation space,8.02 x 8.72 X 4.25,Yes,0.399,Neutrik Cortex mk.2 HATS,1.5,±90°,0°,1
+R15,Room HU201,TU Ilmenau,Seminar/presentation room,N/A,Yes,0.383,Individual listener,2.2,±180°,0°,1
+R16,Rehabilitation Room,TU Ilmenau,Room for rehabilitation of hearing diseases,N/A,Yes,0.399,KEMAR 45BA with large ears,2,±180°,0°,1
+R17,Coupled Rooms,RWTH Aachen,Laboratory & reverberation chamber,N/A,Yes,0.379,FABIAN HATS,"3.97 (L), 3.01 (R)",±45°,0°,1
+R18,Small Room I,N/A,Small-sized virtual room,N/A,No,0.397,B&K HATS Type 4100,3,±180°,0°,1
+R19,TV Studio,TU Ilmenau,TV Studio,19.50 x 11.50 x 5.50,Yes,0.421,KEMAR,6.25,±180°,0°,1
+R20,Small Room A,N/A,Small-sized virtual room,N/A,No,0.368,Neumann KU100,4,±180°,0°,1
+R21,Small Room B,N/A,Small-sized virtual room,N/A,No,0.376,KEMAR DB-4004 with normal ears,4.12,±180°,0°,1
+R22,Small Room H,N/A,Small-sized virtual room,N/A,No,0.353,KEMAR DB-4004 with normal ears,3.91,±180°,0°,1
+R23,Small Room C,N/A,Small-sized virtual room,N/A,No,0.37,Neumann KU100,2.6,±180°,0°,1
+R24,Small Room D,N/A,Small-sized virtual room,N/A,No,0.332,B&K HATS Type 4100,3,±180°,0°,1
+R25,Small Room E,N/A,Small-sized virtual room,N/A,No,0.368,Neumann KU100,3,±180°,0°,1
+R26,Studio,N/A,Small-sized virtual studio,N/A,No,0.408,Neumann KU100,3.82,±180°,0°,1
+R27,Lecture Room,N/A,Virtual lecture room,N/A,No,0.458,Neumann KU100,3.99,±180°,0°,1
+R28,Small Room F,N/A,Small-sized virtual room,N/A,No,0.433,FABIAN HATS,3.55,±180°,0°,1
+R29,Small Room G,N/A,Small-sized virtual room,N/A,No,0.428,"FABIAN HATS (P1), Neumann KU100 (P2)",3.25,±180°,0°,2
+R30,Laboratory,N/A,Virtual laboratory,N/A,No,0.384,Neumann KU100,"3.49 (P1), 2.18 (P2)",±180°,0°,2
+R31,Small Room J,N/A,Small-sized virtual room,N/A,No,0.427,"B&K HATS Type 4100 (P1), Neumann KU100 (P2)",3.2,±180°,0°,2
