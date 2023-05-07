@@ -27,8 +27,8 @@ R25,Small Room E,N/A,Small-sized virtual room,N/A,No,0.368,Neumann KU100,3,±180
 R26,Studio A,N/A,Virtual studio,N/A,No,0.408,Neumann KU100,3.82,±180°,0°,1
 R27,Lecture Room,N/A,Virtual lecture room,N/A,No,0.458,Neumann KU100,3.99,±180°,0°,1
 R28,Small Room F,N/A,Small-sized virtual room,N/A,No,0.433,FABIAN HATS,3.55,±180°,0°,1
-R29,Small Room G,N/A,Small-sized virtual room,N/A,No,0.428,"FABIAN HATS (P1), Neumann KU100 (P2)",3.25,±180°,0°,2
+R29,Small Room G,N/A,Small-sized virtual room,N/A,No,0.428,"FABIAN HATS (P1), Neumann KU100 (P2)",3.5,±180°,0°,2
 R30,Laboratory,N/A,Virtual laboratory,N/A,No,0.384,Neumann KU100,"3.49 (P1), 2.18 (P2)",±180°,0°,2
 R31,Small Room J,N/A,Small-sized virtual room,N/A,No,0.427,"B&K HATS Type 4100 (P1), Neumann KU100 (P2)",3.2,±180°,0°,2
 R32,ASH Listening Room,N/A,Virtual listening room,N/A,No,0.35,Neumann KU100,2.5,±180°,±60°,1
-R33,Studio B,N/A,Virtual studio,N/A,Yes,0.393,Neumann KU100,3.9,±180°,0°,1
+R33,Studio B,N/A,Virtual studio,N/A,Yes,0.393,Neumann KU100,3.8,±180°,0°,1
