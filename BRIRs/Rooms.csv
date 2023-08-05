@@ -30,6 +30,6 @@ R28,Small Room F,N/A,Small-sized virtual room,N/A,Yes,0.433,FABIAN HATS,3.55,±1
 R29,Small Room G,N/A,Small-sized virtual room,N/A,Yes,0.428,"FABIAN HATS (C1), Neumann KU100 (C2)",3.5,±180°,0°,2
 R30,Laboratory,N/A,Virtual laboratory,N/A,Yes,0.384,Neumann KU100,"3.49 (C1), 2.18 (C2)",±180°,0°,2
 R31,Small Room J,N/A,Small-sized virtual room,N/A,Yes,0.427,"B&K HATS Type 4128 (C1), Neumann KU100 (C2)",3.2,±180°,0°,2
-R32,ASH Listening Room,N/A,Virtual listening room,N/A,No,0.35,"Neumann KU100 (C1), KEMAR with large ears (C2), KEMAR with normal ears (C3), B&K HATS Type 4128 (C4)",2.5,±180°,"±60° (C1,C2), ±45° (C3), ±30° (C4)",3
+R32,ASH Listening Room,N/A,Virtual listening room,N/A,No,0.35,"Neumann KU100 (C1), KEMAR with large ears (C2), KEMAR with normal ears (C3), B&K HATS Type 4128 (C4)",2.5,±180°,"±60° (C1,C2), ±45° (C3), ±30° (C4)",4
 R33,Studio B,N/A,Virtual studio,N/A,Yes,0.393,Neumann KU100,3.8,±180°,0°,1
 R34,Small Room K,N/A,Small-sized virtual room,N/A,Yes,0.402,"KEMAR with normal ears (C1,C2), KEMAR with large ears (C3,C4), Neumann KU100 (C5,C6)","2.5 (C1,C3,C5),3.5 (C2,C4,C6)",±180°,0°,6
