@@ -1,5 +1,0 @@
-HpCF convolution configuration for Equalizer APO
-Dated: 01.10.2022
-Channel: ALL
-Select a Headphone Compensation Filter
-Convolution: ..\HpCFs\FIRs\AudioQuest\HpCF_AudioQuest_Nighthawk__Avg.wav

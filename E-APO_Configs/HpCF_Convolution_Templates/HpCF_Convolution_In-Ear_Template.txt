@@ -1,0 +1,6 @@
+HpCF convolution configuration for Equalizer APO
+Dated: 01.10.2022
+Channel: all
+Convolution: C:\Program Files\EqualizerAPO\ASH-Listening-Set\Compatibility_Filters\FIRs\Compatibility_In-Ear_Headphones.wav
+Select a Headphone Compensation Filter
+Convolution: C:\Program Files\EqualizerAPO\ASH-Listening-Set\HpCFs\FIRs\Mee Audio\HpCF_Mee_Audio_Planamic_IEM__Average.wav
