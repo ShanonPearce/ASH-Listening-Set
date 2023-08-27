@@ -1,4 +1,4 @@
-﻿Room ID,Room Name,Room Location,Room Type,Room Dimensions (m) (l x w x h),Reduced Reverberation?,RT60 (s),Listener,Source Distance (m),Source Azimuth Range,Source Elevation Range,Equipment/Room Configurations
+﻿Room ID,Room Name,Room Location,Room Type,Room Dimensions (m) (l x w x h),Reduced Reverberation?,RT60 (s),Listener,Source Distance (m),Source Azimuth Range,Source Elevation Range,Measurement Configurations
 R01,Room Calypso,TU Berlin,Listening room,5.00 x 5.50 x 3.00,No,0.306,KEMAR 45BA with large ears,2.5,±180°,0°,C1
 R02,Control Room 1,WDR Broadcast Studios,Control room,6.85 x 5.48 X 2.47,No,0.235,Neumann KU100,2.8,±180°,0°,C1
 R03,Control Room 7,WDR Broadcast Studios,Control room,7.26 x 8.26 X 2.90,No,0.266,Neumann KU100,3,±180°,0°,C1
