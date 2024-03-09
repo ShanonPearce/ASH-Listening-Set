@@ -33,4 +33,4 @@ R31,Small Room J,N/A,Small-sized virtual room,N/A,No,0.427,"B&K HATS Type 4128 (
 R32,ASH Listening Room,N/A,Virtual listening room,N/A,No,0.35,"Neumann KU100 (C1), KEMAR with large ears (C2), KEMAR with normal ears (C3), B&K HATS Type 4128 (C4)",2.5,±180°,"±60° (C1,C2), ±45° (C3), ±30° (C4)","C1,C2,C3,C4"
 R33,Studio B,N/A,Virtual studio,N/A,No,0.393,Neumann KU100,3.8,±180°,0°,C1
 R34,Small Room K,N/A,Small-sized virtual room,N/A,No,0.402,"KEMAR with normal ears (C1,C2), KEMAR with large ears (C3,C4), Neumann KU100 (C5,C6)","2.5 (C1,C3,C5),3.5 (C2,C4,C6)",±180°,0°,"C1,C2,C3,C4,C5,C6"
-R35,Studio C ,N/A,Virtual studio,N/A,No,0.489,"Neumann KU100 (C1), KEMAR with large ears (C2), KEMAR with normal ears (C3), B&K HATS Type 4128 (C4)",4,±180°,±30°,"C1,C2,C3,C4"
+R35,Studio C ,N/A,Virtual studio,N/A,No,0.44,"Neumann KU100 (C1), KEMAR with large ears (C2), KEMAR with normal ears (C3), B&K HATS Type 4128 (C4)",4,±180°,±30°,"C1,C2,C3,C4"
