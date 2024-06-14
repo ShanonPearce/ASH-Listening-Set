@@ -1,3 +1,5 @@
+### Visit the [ASH-Toolset](https://sourceforge.net/projects/ash-toolset/) project for a windows application that can be used to generate customised BRIRs. The application also includes HpCFs and can be used as an alternative to this dataset.
+
 ## Audio Spatialisation for Headphones
 The **Audio Spatialisation for Headphones (**ASH**) Listening Set** is a continuation of the [ASH-IR-Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset) project. It includes a set of binaural room impulse responses (BRIRs) suitable for everyday listening, a comprehensive set of headphone correction filters (HpCFs), and a set of configuration files for Equalizer APO. The dataset can be used to create spatial surround sound on headphones by convolving an audio stream with a set of BRIRs and a HpCF.
 
